@@ -1,7 +1,7 @@
 # MCQ_I
 The computational code for predicting the classification via RF based on either the MCQI-6 or the MCQI-14 .
 
-1. MCQI-6
+[1] MCQI-6
 1) R code functions
 - ‘MCQI-6.rds’ : pre-trained RF model based on MCQI-6 used in the main function.
 - ‘MCQI_6.R’: main function loading the RF model and predicting the class from the input data.
@@ -14,7 +14,7 @@ The computational code for predicting the classification via RF based on either 
 2.	“No” indicating that MCQ-I score is lower than the cut-off score.
 
 
-2. MCQI-14
+[2] MCQI-14
 1) R code functions
 - ‘MCQI-14.rds’ : pre-trained RF model based on MCQI-6 used in the main function.
 - ‘MCQI_14.R’: main function loading the RF model and predicting the class from the input data.
