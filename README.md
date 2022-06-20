@@ -16,7 +16,7 @@ The computational code for predicting the classification via RF based on either 
 
 [2] MCQI-14
 1) R code functions
-- ‘MCQI-14.rds’ : pre-trained RF model based on MCQI-6 used in the main function.
+- ‘MCQI-14.rds’ : pre-trained RF model based on MCQI-14 used in the main function.
 - ‘MCQI_14.R’: main function loading the RF model and predicting the class from the input data.
 2) Input data example
 ‘input_data_MCQI_14_example.csv' is the example file for input data for MCQI-14. The first row contains fourteen questions used for MCQI-14. From the second to the last column, each row is the response of each individual for MCQI-14. Users can decide the number of columns (number of individuals to test).
